@@ -22,7 +22,7 @@ def main():
     project_cards = [
         {
             "title": "WikiChat",
-            "description": "A LLM Chatbot that Scrapes your favourite Wikipedia Page using BeautifulSoup, then uses Ollama distribution of Mistral7B to prompt the LLM to answer your question. Uses Langchain for chaining LLM, Streamlit for web Interface and BeautifulSoup for Scraping",
+            "description": "A LLM Chatbot that Scrapes your favourite Wikipedia Page using BeautifulSoup, and answer questions using Mistral7B",
             "github_link": "https://github.com/Atharva2099/My-Portfolio/tree/main/Mistral%20Langchain",
             
         },
